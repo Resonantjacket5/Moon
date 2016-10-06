@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Punator"
+date:   2016-10-06 12:00:00 -0500
+tags: personal typescript
+project: true
+---
+
+My goal to create a simple pun masterpiece. Though currently it just looks up synonyms to a keyword and then tries to find nearby words that rhyme with the given sentence. It uses bighugelabs.com as the thesaurus and uses metaphone to convert the phonentics.
+
+[Punator App](https://punator-d8a97.firebaseapp.com/)

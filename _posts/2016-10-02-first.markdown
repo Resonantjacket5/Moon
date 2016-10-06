@@ -1,8 +1,0 @@
----
-layout: post
-title:  "First Jekyll post!!"
-date:   2016-10-02 00:26:56 -0500
-tags: jekyll update first
----
-
-Hi! This is the first jekyll post that I'm making. Just testing it out.
